@@ -1,6 +1,7 @@
-X-Road Joint Development	DRAFT v0.5
-
+X-Road Joint Development
 # Workflow Policy
+
+DRAFT v0.5
 
 ##1	General
 
@@ -36,6 +37,8 @@ X-Road Joint Development	DRAFT v0.5
 
 4.2	Vendors develop software in their repositories, on `feature` branches.
 
+![Feature Development](IMG/FeatureDevelopment.PNG)
+
 4.3	Procedure:
 
 a)	Vendor creates `feature` branch in vendor repository by branching from `XM/develop`;
@@ -47,6 +50,8 @@ c)	Head Architect reviews the pull request and pulls in from Vendor repository i
 ## 5	Release preparation
 
 5.1	New production release is prepared on `release` branch.
+
+![Release preparation](IMG/ReleasePreparation.PNG)
 
 5.2	Jointly developed X-Road software is released by the procedure:
 
@@ -71,6 +76,8 @@ e)	Head Architect also updates `XM/develop` with changes made on `release` branc
 7.1	Critical bug in production version is handled by preparation and release of a patch. 
 
 7.2	Patch is prepared on `hotfix` branch.
+
+![Hotfix](IMG/Hotfix.PNG)
 
 7.3	Hotfix procedure:
 
