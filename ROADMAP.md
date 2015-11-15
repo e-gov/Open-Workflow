@@ -1,4 +1,6 @@
-X-Road Joint Development ![](http://priitparmakson.github.io/SVG/ROADMAP-01.svg)
+X-Road Joint Development
+
+![](http://priitparmakson.github.io/SVG/ROADMAP-01.svg)
 
 # Roadmap
 
