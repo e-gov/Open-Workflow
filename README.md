@@ -1,3 +1,11 @@
+NOTICE:
+X-Road Joint Development Workflow Policy document has been moved to [https://github.com/vrk-kpa/xroad-public](https://github.com/vrk-kpa/xroad-public). Please submit your comments, issues and pull request at the aforementioned address.
+
+20.11.2015
+
+-----
+
+
 X-Road Joint Development
 # Workflow Policy
 
