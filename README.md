@@ -9,6 +9,7 @@ Project | Mission | Major Contributors (A - public administration; B - business,
 [Open e-ID](https://github.com/open-eid) | Estonian Electronic Identity Software | [Estonian Information System Agency](https://www.ria.ee/) (A)
 [Riigiametnike palgad](https://github.com/taivop/force-palgad) | Public sector salaries visualised using D3.js framework | [Taivo Pungas](https://github.com/taivop) (C)
 [Avaandmete portaal](https://github.com/opendata-ee) | Estonian open data portal | [Ministry of Economic Affairs and Communications, Department of State Information Systems](https://www.mkm.ee/en/contact?tid_with_depth[0]=223) (A), [Jaanus Heinlaid, TripleDev OÜ](https://github.com/heinlja) (B)
+[pangalink.net](https://github.com/andris9/Pangalink.net) | Source code of the former pangalink.net service | Andris Reinman 
 
 To add a project, please submit an issue or pull request
 
