@@ -1,4 +1,8 @@
 
+To add a project, please submit an issue or pull request
+
+---
+
 ## List of Known Estonian Public Sector Open Development Projects
 
 Project | Mission | Major Contributors (A - public administration; B - business, C - citizen)
@@ -15,8 +19,6 @@ Project | Mission | Major Contributors (A - public administration; B - business,
 Project | Mission | Major Contributors 
 --------|---------|-------------------
 [18F](https://github.com/18F) | "effective, user-centric digital services focused on the interaction between government & the people" | General Services Administration (GSA), USA
-
-To add a project, please submit an issue or pull request
 
 -----
 
