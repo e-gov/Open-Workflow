@@ -20,6 +20,8 @@ Project | Mission | Major Contributors
 --------|---------|-------------------
 [18F](https://github.com/18F) | "effective, user-centric digital services focused on the interaction between government & the people" | General Services Administration (GSA), USA
 
+Government agencies at the national, state, and local level use GitHub to share and collaborate: https://government.github.com/community/
+
 -----
 
 NOTICE 20.11.2015:
