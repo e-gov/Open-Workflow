@@ -3,7 +3,7 @@
 X-Road Joint Development
 # Workflow Policy
 
-DRAFT v0.5
+DRAFT v0.6
 
 ##1	General
 
@@ -47,7 +47,21 @@ a)	Vendor creates `feature` branch in vendor repository by branching from `XM/de
 
 b)	Upon completion of feature development, Vendor sends a pull request to `XM/develop`.
 
-c)	Head Architect reviews the pull request and pulls in from Vendor repository into `XM/develop`.	 
+c)	Head Architect reviews the pull request according to acceptance criteria:
+
+- Are the features OK to be accepted to the core (Feature analysis)?
+- Does the code conform to the X-Road non-functional requirements(see [Non-Functional Requirements])?
+- Is the version number correct (as agreed on the roadmap)?
+- Have the changelogs been updated?
+- Does the build and the test cases work? (CI build)
+- Is there enough test coverage?
+- Have the X-Road coding conventions been used?
+- Is the code commented well enough?
+- Are the JavaDocs OK?
+- Is the code licensing OK?
+- Has the documentation been updated?
+
+d)  When the acceptance criteria is satisfied the Head Architect pulls in from Vendor repository into `XM/develop`.
 
 ## 5	Release preparation
 
@@ -151,3 +165,5 @@ c)	VRK creates repository `XO` and initialises it by committing X-Road v6.0 Secu
 [Markdown] GitHub.com, GitHub Flavored Markdown, https://help.github.com/articles/github-flavored-markdown/. 
 
 [Stash] Atlassian.com, Code, Manage, Collaborate, https://www.atlassian.com/software/bitbucket. 
+
+[Non-Functional Requirements] X-Road Non-Functional Requirements
