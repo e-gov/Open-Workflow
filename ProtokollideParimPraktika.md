@@ -1,10 +1,8 @@
-````
-ABSTRACT
-Protocol Specification Best Practice (in Estonian)
-This document summarises the best practice of specification of data exchange protocols,
-based on methodology and best practice documents of internationally recognized
-standards developing organisations.
-````
+
+*ABSTRACT Protocol Specification Best Practice (in Estonian)*
+
+*This document summarises the best practice of specification of data exchange protocols, drawing from methodology and best practice guidance of internationally recognized standards developing organisations. The best practice is expressed in form of requirements and verification questions. Intended audience:  protocol designers, specification writers and quality assurance specialists.*
+
 # Protokollide spetsitseerimise parim praktika
 
 Versioon 1.0
