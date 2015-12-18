@@ -1,5 +1,7 @@
-### X-Road Working Vocabulary
 EN/ET/FI
+
+### X-Road Working Vocabulary
+
 * accessibility / barjääritus, tõkketus(?) / esteettömyys -- [Sähköisten palveluiden esteettömyys](https://www.thl.fi/fi/web/tiedonhallinta-sosiaali-ja-terveysalalla/tietojarjestelmapalvelut/sahkoisten-palveluiden-esteettomyys) 
 * adapter server (deprecated) / adapterserver / sovelluspalvelu
 * certification service / sertifitseerimisteenus / varmennepalvelu
@@ -14,7 +16,6 @@ EN/ET/FI
 * security server / turvaserver / liityntäpalvelin, turvapalvelin
 
 ### Git vocabulary/Giti sõnastik/Gitin sanasto 
-- EN/ET/FI
 - branch/haru/?
 - clone/kloon/klooni
 - commit/sidum/?
@@ -36,7 +37,7 @@ tag/märgend/?
 Cf: https://help.github.com/articles/github-glossary/ 
 
 ### Related vocabularies
-
+[GitHub Glossary](https://help.github.com/articles/github-glossary/)
 [Kansallinen palveluarkkitehtuuri. Sanasto](http://esuomi.fi/palveluntarjoajille/palveluvayla/sanasto/)
 
 ### About
