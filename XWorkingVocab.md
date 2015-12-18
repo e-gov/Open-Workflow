@@ -37,11 +37,7 @@ tag/märgend/?
 Cf: https://help.github.com/articles/github-glossary/ 
 
 ### Related vocabularies
-[GitHub Glossary](https://help.github.com/articles/github-glossary/)
-[Kansallinen palveluarkkitehtuuri. Sanasto](http://esuomi.fi/palveluntarjoajille/palveluvayla/sanasto/)
+- [GitHub Glossary](https://help.github.com/articles/github-glossary/)
+- [Kansallinen palveluarkkitehtuuri. Sanasto](http://esuomi.fi/palveluntarjoajille/palveluvayla/sanasto/)
 
-### About
-
-The idea is to build up multilingual - English-Estonian-Finnish working vocabulary for purposes of "Andmejälgija" a possibly other X-Road international co-operation project.
-
-Pull requests and comments are welcome.
+Pull requests and comments welcome.
