@@ -103,7 +103,7 @@ Arvamused ja ettepanekud on teretulnud (GitHub-i Issue ja Pull Request).
 
 16.	Erinõuded
     1.	Lähtudes dokumendi valdkonnast kohalduvad erinõuded ja/või valdkonna dokumenteerimise hea tava. RIA on käesolevaks ajaks välja töötanud järgmised erinõudeid määratlevad doku-mendid:
-        1.	[arhitektuuri mall](https://www.ria.ee/valmis-abivahend-andmekogude-arhitektuuri-dokumenteerijatele/);
+        1.	[arhitektuuri mall](https://www.ria.ee/ee/valmis-abivahend-andmekogude-arhitektuuri-dokumenteerijatele.html);
         1.	[protokollide spetsifitseerimise parim praktika](https://github.com/e-gov/Open-Workflow/blob/master/ProtokollideParimPraktika.md);
         1.	olemite-suhete andmemudeli dokumenteerimisnõuded.
     1.	Dokumenteerimise erinõudeid sisaldavad dokumendid või viited nendele lisatakse hankedokumentidele.
