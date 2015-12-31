@@ -59,9 +59,7 @@ Arvamused ja ettepanekud on teretulnud (GitHub-i Issue ja Pull Request).
     1. Kui Tellija ei ole mustrit ette andnud, siis valib Täitja ise otstarbeka nimemustri.
     1.	Versioneeritava dokumendi failinimetuses kaaluda versiooninumbri lisamist.
     1. Kuupäeva kasutamisel failinimes kasutada kuju AAA-KK-PP (mitte 20111210 vms).
-    1. Avalikult esitletavad failid peaksid saama "normaalsed" nimed. Näiteks:
-        1. [https://www.ria.ee/public/Programm/kryptoalgoritmide_elutsykli_uuring_15-07-2011.pdf ](https://www.ria.ee/public/Programm/kryptoalgoritmide_elutsykli_uuring_15-07-2011.pdf)
-        1. [https://www.ria.ee/public/PKI/kruptograafiliste_algoritmide_elutsukli_uuring_II.pdf ](https://www.ria.ee/public/PKI/kruptograafiliste_algoritmide_elutsukli_uuring_II.pdf )
+    1. Avalikult esitletavad failid peaksid saama inimesele kergesti loetavad nimed. Näiteks:
         1. [https://www.ria.ee/public/RIA/Kruptograafiliste_algoritmide_uuring_2015.pdf](https://www.ria.ee/public/RIA/Kruptograafiliste_algoritmide_uuring_2015.pdf)
     1. Kirjandus:
         1. European Commission (2012) [10 rules for persistent URIs](http://ec.europa.eu/isa/news/2013/10-rules-and-good-practices-for-designing-persistent-uris_en.htm)
