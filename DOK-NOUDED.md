@@ -53,6 +53,8 @@ Arvamused ja ettepanekud on teretulnud (GitHub-i Issue ja Pull Request).
     1. Muukeelseid IT-sõnastikke:
         1. [ISTQB Glossary of Testing Terms](https://www.istqb.org/downloads/viewcategory/20.html)
         1. [ISO/IEC/IEEE 24765 Systems and software engineering — Vocabulary](https://www.cse.msu.edu/~cse435/Handouts/Standards/IEEE24765.pdf)
+    2. EL mitmekeelne terminibaas [IATE](http://iate.europa.eu/).
+    2. Asjakohases stiilis. Tehniline dokumentatsioon reeglina ametlikus stiilis. Vaba kantseliidist. Ametliku sisuga kirjaliku teksti toimetamisel on heaks abiliseks [Ametniku soovitussõnastik](http://www.eki.ee/dict/ametnik/ametnik.html)
 
 8.	Failinimed ja URL-id
     1.	Failide nimed ja samuti URL-id peavad olema süsteemsed ja informatiivsed.
