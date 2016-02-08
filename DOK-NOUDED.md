@@ -41,7 +41,7 @@ Arvamused ja ettepanekud on teretulnud (GitHub-i Issue ja Pull Request).
     1.	Näide: Ernst & Young (2013) Protsessianalüüsi käsiraamat, https://www.mkm.ee/sites/default/files/protsessianaluusi_kasiraamat.pdf.
 
 7.	Keel
-    1.	Dokument peab vastama õigekeelsusnormidele. Tekst peab olema keelelt ja stiililt korrektne.
+    1.	Dokument peab vastama õigekeelsusnormidele. Tekst peab olema keelelt ja stiililt korrektne. *Märkus*. IT erikeele üldtunnustatud tava võib mõnikord üldkeele normist lahkneda.
     1.	Terminoloogia peab olema läbivalt ühtne. Vastavalt vajadusele lisatakse sõnaseletused või definitsioonid; kui neid on rohkem, siis eraldi jaotisena.
     1. Keelekasutus peaks olema vaba eesti keelele mitteomasest lausestruktuurist.
     1. Eelistatud on omakeelsed sõnad.
