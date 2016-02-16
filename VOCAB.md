@@ -1,6 +1,6 @@
-EN/ET/FI
+#Vocabularies = Sõnastikud
 
-### X-Road Working Vocabulary
+### X-Road Working Vocabulary EN/ET/FI
 
 * accessibility / barjääritus, tõkketus(?) / esteettömyys -- [Sähköisten palveluiden esteettömyys](https://www.thl.fi/fi/web/tiedonhallinta-sosiaali-ja-terveysalalla/tietojarjestelmapalvelut/sahkoisten-palveluiden-esteettomyys) 
 * adapter server (deprecated) / adapterserver / sovelluspalvelu
