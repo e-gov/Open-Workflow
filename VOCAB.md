@@ -1,5 +1,18 @@
 #Vocabularies = Sõnastikud
 
+*  [Heikki Vallaste E-sõnastik](http://www.vallaste.ee/)
+
+*  [Andmekaitse ja infoturbe seletussõnastik](http://akit.cyber.ee/) (Cybernetica AS)
+
+*  [Standardipõhine tarkvaratehnika sõnastik](https://stats.cyber.ee/terms) (Cybernetica AS)
+
+*  [ISTQB Glossary of Testing Terms](https://www.istqb.org/downloads/viewcategory/20.html)
+
+*  [ISO/IEC/IEEE 24765 Systems and software engineering — 
+Vocabulary](https://www.cse.msu.edu/~cse435/Handouts/Standards/IEEE24765.pdf)
+
+----
+
 ### X-Road Working Vocabulary EN/ET/FI
 
 * accessibility / barjääritus, tõkketus(?) / esteettömyys -- [Sähköisten palveluiden esteettömyys](https://www.thl.fi/fi/web/tiedonhallinta-sosiaali-ja-terveysalalla/tietojarjestelmapalvelut/sahkoisten-palveluiden-esteettomyys) 
@@ -14,6 +27,8 @@
   - Logger / / Andmesalvestaja -- software component that stores metadata in database
   - Reporter / / Esitusteenus -- software component that displays personal data usage metadata to the person
 * security server / turvaserver / liityntäpalvelin, turvapalvelin
+
+----
 
 ### Git vocabulary/Giti sõnastik/Gitin sanasto 
 - branch/haru/?
@@ -34,10 +49,8 @@ downstream/allavoolu/?
 blob/bloob, bitiblokk/?
 origin/algrepo/?
 tag/märgend/?
-Cf: https://help.github.com/articles/github-glossary/ 
 
-### Related vocabularies
+Related vocabularies
 - [GitHub Glossary](https://help.github.com/articles/github-glossary/)
 - [Kansallinen palveluarkkitehtuuri. Sanasto](http://esuomi.fi/palveluntarjoajille/palveluvayla/sanasto/)
 
-Pull requests and comments welcome.
