@@ -92,7 +92,7 @@ and test projects hosted at GitHub
 - [Regex cheatsheet](http://regexlib.com/CheatSheet.aspx?AspxAutoDetectCookieSupport=1)
 
 ### Markdown
--[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)
 - [CommonMark spetsifikatsioon](http://spec.commonmark.org/)
 - [Markdown-i süntaks](http://daringfireball.net/projects/markdown/syntax)
 - [remarkable](https://github.com/jonschlinkert/remarkable), "Markdone parser, done right".
