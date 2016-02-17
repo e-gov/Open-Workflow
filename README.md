@@ -14,4 +14,4 @@ Avaarendajad leiavad varamust mitmesuguseid töökorralduslikke (workflow) ressu
 
 [Vocabularies = Sõnastikud](VOCAB.md)
 
-[Töövõtteid GitHubis](TOOVOTTED.md)
+[Töövõtteid GitHubis](TOOVOTTEID.md)
