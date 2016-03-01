@@ -161,6 +161,10 @@ vastus: jah)
 
 > Kvaliteedikontroll: Kas vastavusmudel on kirjeldatud ammendavalt? (aktsepteeritav vastus: jah)
 
+## Etalonteostus
+
+19  Protokolli spetsifikatsiooni juurde käib etalonteostus [12]. Etalonteostuse eesmärk on: a) verifitseerida protokolli:  veenduda, et protokoll on teostatav, toimib vastavalt spetsifikatsioonile ning täidab protokollile seatud eesmärke; b) näitlikustada protokolli võimalikele rakendajatele. Etalonteostus võib olla kasulik protokolli rakendajatele ka koodi korduvkasutuse kaudu.
+
 ## Kirjandus
 
 \[1\] RFC 2360 „Guide for Internet Standards Writers“,
@@ -195,3 +199,5 @@ vastus: jah)
 
 \[11\] W3C Variability in Specifications,
 [*http://www.w3.org/TR/spec-variability/*](http://www.w3.org/TR/spec-variability/).
+
+\[12\] Wikipedia. [https://en.wikipedia.org/wiki/Reference_implementation](Reference implementation).
