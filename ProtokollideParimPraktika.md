@@ -13,10 +13,10 @@ Versioon 1.1
 
 Käesolev dokument esitab andmevahetusprotokollide kirjeldamise ja
 spetsifitseerimise parima praktika, lähtudes rahvusvaheliste
-tunnustustatud, juhtivate standardeid väljatöötavate organisatsioonide
+tunnustatud, juhtivate standardeid väljatöötavate organisatsioonide
 mitmesugustest metoodikajuhistest.
 
-Parim praktika on on väljendatud nõuetena ja kontrollküsimustena.
+Parim praktika on väljendatud nõuetena ja kontrollküsimustena.
 
 Dokument on mõeldud protokollide projekteerijatele,
 spetsifitseerijatele, kirjelduste ja spetsifikatsioonide kvaliteedi
