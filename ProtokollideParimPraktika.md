@@ -5,42 +5,27 @@
 
 *The document summarises the best practice of specification of data exchange protocols, drawing from methodology and best practice guidance of internationally recognized standards developing organisations. The best practice is expressed in form of requirements and verification questions. Intended audience:  protocol designers, specification writers and quality assurance specialists.*
 
-# Protokollide spetsitseerimise parim praktika
+# Protokollide spetsifitseerimise parim praktika
 
 Versioon 1.1
 
 01.03.2016
 
-Käesolev dokument esitab andmevahetusprotokollide kirjeldamise ja
-spetsifitseerimise parima praktika, lähtudes rahvusvaheliste
-tunnustatud, juhtivate standardeid väljatöötavate organisatsioonide
-mitmesugustest metoodikajuhistest.
+Käesolev dokument esitab andmevahetusprotokollide kirjeldamise ja spetsifitseerimise parima praktika, lähtudes rahvusvaheliste tunnustatud, juhtivate standardeid väljatöötavate organisatsioonide mitmesugustest metoodikajuhistest.
 
 Parim praktika on väljendatud nõuetena ja kontrollküsimustena.
 
-Dokument on mõeldud protokollide projekteerijatele,
-spetsifitseerijatele, kirjelduste ja spetsifikatsioonide kvaliteedi
-kontrollijatele.
+Dokument on mõeldud protokollide projekteerijatele, spetsifitseerijatele, kirjelduste ja spetsifikatsioonide kvaliteedi kontrollijatele.
 
 ## Mõisted
 
-*Andmevahetusprotokoll*, reeglite kogum, mida arvutid kasutavad andmete
-võrgu kaudu saatmiseks ja vastuvõtmiseks. Protokoll muuhulgas määrab
-edastatavate andmete formaadi, kasutatava veatuvastusmetoodika,
-andmetihendusmeetodi ning selle, kuidas saatev seade annab teada, et
-sõnumi edastamine on lõpetatud ning kuidas vastu võttev seade annab
-teada, et sõnum on edukalt vastu võetud.
+*Andmevahetusprotokoll*, reeglite kogum, mida arvutid kasutavad andmete võrgu kaudu saatmiseks ja vastuvõtmiseks. Protokoll muuhulgas määrab edastatavate andmete formaadi, kasutatava veatuvastusmetoodika, andmetihendusmeetodi ning selle, kuidas saatev seade annab teada, et sõnumi edastamine on lõpetatud ning kuidas vastu võttev seade annab teada, et sõnum on edukalt vastu võetud.
 
-*Spetsifikatsioon*, dokument, mis määratleb nõuded. Spetsifikatsioon on
-spetsifitseerimise tulemus.
+*Spetsifikatsioon*, dokument, mis määratleb nõuded. Spetsifikatsioon on spetsifitseerimise tulemus.
 
-*Dokumendi* all mõistetakse käesolevas kirjutises terviklikku, ühtse
-pealkirja alla koondatud, artiklite kogumit ning mille sisu, vorm ja
-struktuur on küllaldane selles dokumendis hõlmatud faktide või tegevuse
-kirjeldamiseks.
+*Dokumendi* all mõistetakse käesolevas kirjutises terviklikku, ühtse pealkirja alla koondatud, artiklite kogumit ning mille sisu, vorm ja struktuur on küllaldane selles dokumendis hõlmatud faktide või tegevuse kirjeldamiseks.
 
-*Kirjeldus* – antud dokumendi raames on mõisted spetsifikatsioon ja
-kirjeldus samaväärsed.
+*Kirjeldus* – antud dokumendi raames on mõisted spetsifikatsioon ja kirjeldus samaväärsed.
 
 ## Protokollide vormistamine
 
@@ -48,15 +33,13 @@ kirjeldus samaväärsed.
 
 Kirjelduse ja selles kirjelduses viidatud dokumentides sisalduva teabe alusel peab olema võimalik realiseerida protokoll uuesti.
 
-> Kvaliteedikontroll: Kas dokumendi kirjutamisel on järgitud käesolevas dokumendis kirjeldatud vormistuse nõudeid ja kirjelduse struktuuri nõudeid? (aktsepteeritav
-vastus: jah)
+> Kvaliteedikontroll: Kas dokumendi kirjutamisel on järgitud käesolevas dokumendis kirjeldatud vormistuse nõudeid ja kirjelduse struktuuri nõudeid? (aktsepteeritav vastus: jah)
 
 2  Kui andmevahetusprotokolli kirjeldus on jagatud mitmesse dokumenti või kui protokoll on osa suuremast tervikust, mis kirjeldatakse teiste dokumentidega, siis peab dokumendi ülevaate jaotise järel paiknevas jaotises olema kirjeldatud nende dokumentide loend, mis annab ülevaate protokolli mõistmiseks vajalikust dokumentatsioonist (jaotis „Seotud dokumendid“). \[4\]
 
 > Kvaliteedikontroll: Kas vaadeldava dokumendi mõistmiseks on vajalik mingite teiste dokumentide tundmine? (aktsepteeritavad vastused: jah ja ei)
 
-> Kui on, siis kas andmevahetusprotokolli kirjeldavas dokumendis on jaotis, kus kirjeldatakse viited nendele dokumentidele? (aktsepteeritav
-vastus: jah).
+> Kui on, siis kas andmevahetusprotokolli kirjeldavas dokumendis on jaotis, kus kirjeldatakse viited nendele dokumentidele? (aktsepteeritav vastus: jah).
 
 > Kui on, siis kas esitatud seotud dokumentide loend on ammendav? (aktsepteeritav vastus: jah)
 
@@ -98,7 +81,7 @@ vastus: jah)
 
 9  Protokolli kirjeldus peab algama üldistatud kirjeldusega, kus sõnastatakse protokolli tähendus – millal, kus, milleks ja kes/mis antud protokolli kasutama hakkavad ja millist probleemi protokoll lahendab. Siin kirjeldatakse ära ka protokolli üldised omadused. Tegemist on nö. lühida eelkirjeldusega enne kui hakatakse protokolli detailselt kirjeldama. \[2\]
 
-> Kvaliteedikontroll: Kas andmevahetusprotokoll algab ammendava lühiülevaatega protokolli tähendusest ja olulistest omadustest? (aktsepteeritav vastus: jahi)
+> Kvaliteedikontroll: Kas andmevahetusprotokoll algab ammendava lühiülevaatega protokolli tähendusest ja olulistest omadustest? (aktsepteeritav vastus: jah)
 
 10  Protokolli kirjeldus sisaldab protokolli arhitektuurilise ülevaate, mis sisaldab kirjeldavat teksti koos diagrammidega. Arhitektuuriline kirjeldus kirjeldab interaktsiooni osapooli, liikuvate sõnumite eesmärki. Kirjeldatakse: \[6, jaotis 2\] \[4, jaotis 2 ja 3\] \[2, jaotis 4.2\] \[9\]
 
@@ -112,7 +95,7 @@ vastus: jah)
 
 > Kvaliteedikontroll: Kas dokumendis on olemas protokolli arhitektuurilise ülevaate kirjeldus? (aktsepteeritav vastus: jah)
 
->Kas protokolli arhitektuuriline ülevaade sisaldab:
+> Kas protokolli arhitektuuriline ülevaade sisaldab:
 > -   protokolli arhitektuurilise vaate skeemi koos ammendava kirjeldusega
 > -   peamised (olulised) andmeelemendid
 > -   olulised nõuded protokolli toimimisele
