@@ -32,7 +32,7 @@ Ehitamise sisendid
 Ehituskeskkonna ettevalmistamine
 -	Ehitusjuhendis tuleb selgelt kommunikeerida nõuded ehituskeskkonnale (arvuti, operatsioonisüsteem, süsteemitarkvara, ehitamise abivahendid, teegid).
 -	Eeldame, et ehitatakse masinas, kuhu on paigaldatud sama operatsioonisüsteem, mida kasutatakse ka __Tarkvaratoote__ käitluskeskkonnas (nt Ubuntu 14.04 LTS).
--	Ehitusvahendi (nt Maveni või Gradle) puhul näidata, kas piisab ehitusvahendi standardkonfiguratsiooni st või on vaja ehitusvahendit veel kuidagi seadistada.
+-	Ehitusvahendi (nt Maveni või Gradle) puhul näidata, kas piisab ehitusvahendi standardkonfiguratsioonist või on vaja ehitusvahendit veel kuidagi seadistada.
 -	Kui on vaja teeke vm komponente või vahendeid, mida operatsioonisüsteemi ja ehitusvahendi standardkoosseisus ei ole, siis näidata kust ja kuidas need paigaldada. 
 
 Ehitamine
@@ -45,7 +45,7 @@ Ehitamine
 
 Ehitamise väljund
 -	Ehitamise väljundiks on __Tarkvaratoote__ paigalduspakett (üks või mitu paketti).
--	Kirjeldada, kuhu see tekib ja millest see koosneb (eeldame põhiteadmisi Javast).
+-	Kirjeldada, kuhu see tekib ja millest see koosneb (eeldame põhiteadmisi __Tarkvaratootes__ kasutatud programmeerimiskeelest).
 
 Paigaldamine
 -	Ehitamisprotsessile järgneb paigaldamisprotsess. Paigaldamisprotsessi käsitletakse __Tarkvaratoote__ rakendusjuhendis. Ehitusjuhend ja paigaldamisprotsessi käsitlus rakendusjuhendis peavad üksteisega haakuma ja olema kooskõlas.
