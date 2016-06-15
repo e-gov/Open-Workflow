@@ -8,4 +8,6 @@ Avaarendajad leiavad varamust mitmesuguseid töökorralduslikke (workflow) ressu
 
 [Protokollide spetsitseerimise parim praktika](ProtokollideParimPraktika.md)
 
+[Ehitusjuhend: parim praktika](EHITUSJUHEND%20parim%20praktika.md)
+
 [Vocabularies = Sõnastikud](VOCAB.md)
