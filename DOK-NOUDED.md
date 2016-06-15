@@ -31,8 +31,8 @@ Arvamused ja ettepanekud on teretulnud (GitHub-i Issue ja Pull Request).
     1.	Üleantava dokumentatsiooni komplekt, sh nimetused peavad vastama hankedokumendis, lepingus ja Tellijaga projekti käigus kokkulepitule. 
 
 5.	Esileht
-    1.	Dokumendi tiitel- või esilehel esitatakse teave dokumendi Tellija ja Täitja kohta. Organisatsiooni (firma) nimi esitakse ametliku täisnimena.
-    1.	Üleantavat dokumenti ei vormistata firma blanketil ega firma kujundusmallil.
+    1.	Dokumendi tiitel- või esilehel esitatakse teave dokumendi Tellija ja Täitja kohta. Organisatsiooni (ettevõtte) nimi esitakse ametliku täisnimena.
+    1.	Üleantavat dokumenti ei vormistata ettevõtte blanketil ega ettevõtte kujundusmallil.
 
 6.	Logo
     1.	Esi- või tiitellehele võib paigutada Täitja logo. Sellisel juhul paigutatakse esilehele ka Tellija (Riigi Infosüsteemi Ameti logo). Kui projektis on rohkem partnereid, siis paigutatakse kõigi logod.
@@ -48,21 +48,21 @@ Arvamused ja ettepanekud on teretulnud (GitHub-i Issue ja Pull Request).
     1. Tuleb kasutada valdkonnas väljakujunenud terminoloogiat.
     1. Eestikeelsete IT oskussõnade leidmisel on autoriteetsete sõnastike hulgas:
         1. [Andmekaitse ja infoturbe seletussõnastik](http://akit.cyber.ee/) (Cybernetica AS)
-        1. [Standardipõhine tarkvaratehnika sõnastik](https://stats.cyber.ee/terms) (Cybernetica AS)
+        1. [Standardipõhine tarkvaratehnika sõnastik](https://stats.cyber.ee/) (Cybernetica AS)
         1. Heikki Vallaste [E-sõnastik](http://www.vallaste.ee/)
     1. Muukeelseid IT-sõnastikke:
-        1. [ISTQB Glossary of Testing Terms](https://www.istqb.org/downloads/viewcategory/20.html)
-        1. [ISO/IEC/IEEE 24765 Systems and software engineering — Vocabulary](https://www.cse.msu.edu/~cse435/Handouts/Standards/IEEE24765.pdf)
+        1. [ISTQB Glossary of Testing Terms](http://www.istqb.org/downloads/category/20-istqb-glossary.html)
+        1. [ISO/IEC/IEEE 24765 Systems and software engineering — Vocabulary](http://www.iso.org/iso/catalogue_detail.htm?csnumber=50518)
     2. EL mitmekeelne terminibaas [IATE](http://iate.europa.eu/).
     2. Asjakohases stiilis. Tehniline dokumentatsioon reeglina ametlikus stiilis. Vaba kantseliidist. Ametliku sisuga kirjaliku teksti toimetamisel on heaks abiliseks [Ametniku soovitussõnastik](http://www.eki.ee/dict/ametnik/ametnik.html).
 
 8.	Failinimed ja URL-id
-    1.	Failide nimed ja samuti URL-id peavad olema süsteemsed ja informatiivsed.
+    1. Failide nimed ja samuti URL-id peavad olema süsteemsed ja informatiivsed.
     1. Kui Tellija ei ole mustrit ette andnud, siis valib Täitja ise otstarbeka nimemustri.
-    1.	Versioneeritava dokumendi failinimetuses kaaluda versiooninumbri lisamist.
-    1. Kuupäeva kasutamisel failinimes kasutada kuju AAA-KK-PP (mitte 20111210 vms).
+    1. Versioneeritava dokumendi failinimetuses kaaluda versiooninumbri lisamist.
+    1. Kuupäeva kasutamisel failinimes kasutada kuju AAAA-KK-PP (mitte AAKKPP, PP.KK.AAAA vms).
     1. Avalikult esitletavad failid peaksid saama inimesele kergesti loetavad nimed. Näiteks:
-        1. [https://www.ria.ee/public/RIA/Kruptograafiliste_algoritmide_uuring_2015.pdf](https://www.ria.ee/public/RIA/Kruptograafiliste_algoritmide_uuring_2015.pdf)
+        1. [https://www.ria.ee/public/RIA/Cryptographic_Algorithms_Lifecycle_Report_2016.pdf](https://www.ria.ee/public/RIA/Cryptographic_Algorithms_Lifecycle_Report_2016.pdf)
     1. Kirjandus:
         1. European Commission (2012) [10 rules for persistent URIs](http://ec.europa.eu/isa/news/2013/10-rules-and-good-practices-for-designing-persistent-uris_en.htm)
 
