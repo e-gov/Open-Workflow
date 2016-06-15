@@ -1,5 +1,3 @@
-# Workflow Matters = Töövoo teemasid
-
 Avaarendajad leiavad varamust mitmesuguseid töökorralduslikke (workflow) ressursse (töövoomalle, tööriistu, teadmusmaterjale, kontakte teiste avaarendajatega). Kaastöö teretulnud.
 
 [Open Access Development Tools = Avatud arendusvahendeid](OPENTOOLS.md)
@@ -9,9 +7,5 @@ Avaarendajad leiavad varamust mitmesuguseid töökorralduslikke (workflow) ressu
 [Nõuded üleantavale dokumentatsioonile](DOK-NOUDED.md)
 
 [Protokollide spetsitseerimise parim praktika](ProtokollideParimPraktika.md)
- 
-[Word-to-Markdown Workflow](Word-to-Markdown.md)
 
 [Vocabularies = Sõnastikud](VOCAB.md)
-
-[Töövõtteid GitHubis](TOOVOTTEID.md)
