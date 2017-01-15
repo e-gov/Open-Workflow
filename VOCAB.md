@@ -4,7 +4,7 @@
 
 *  [Andmekaitse ja infoturbe seletussõnastik](http://akit.cyber.ee/) (Cybernetica AS)
 
-*  [Standardipõhine tarkvaratehnika sõnastik](https://stats.cyber.ee) (Cybernetica AS)
+*  [Standardipõhine tarkvaratehnika sõnastik](http://stats.cyber.ee) (Cybernetica AS)
 
 *  [ISTQB Glossary of Testing Terms](https://www.istqb.org/downloads/viewcategory/20.html)
 
