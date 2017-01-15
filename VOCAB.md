@@ -4,12 +4,9 @@
 
 *  [Andmekaitse ja infoturbe seletussõnastik](http://akit.cyber.ee/) (Cybernetica AS)
 
-*  [Standardipõhine tarkvaratehnika sõnastik](https://stats.cyber.ee/terms) (Cybernetica AS)
+*  [Standardipõhine tarkvaratehnika sõnastik](https://stats.cyber.ee) (Cybernetica AS)
 
 *  [ISTQB Glossary of Testing Terms](https://www.istqb.org/downloads/viewcategory/20.html)
-
-*  [ISO/IEC/IEEE 24765 Systems and software engineering — 
-Vocabulary](https://www.cse.msu.edu/~cse435/Handouts/Standards/IEEE24765.pdf)
 
 *  [ITIL® V3 terminite ja määratluste sõnastik](http://www.itsmf.ee/itsmf/wp-content/uploads/2013/01/ITIL_V3_Glossary_100313.pdf). koostaja Avo Raup.
 
